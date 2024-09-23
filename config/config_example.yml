@@ -1,0 +1,11 @@
+#Change the name to config.yml after configured
+# ThingsBoard Configuration
+tb_host: "HOST"
+tb_port: 1883
+tb_token: "DEVICE_TOKEN"
+
+# SEN5x Configuration
+i2c_port: "/dev/i2c-1"
+
+# Publishing Configuration
+publish_interval: 5 # in seconds

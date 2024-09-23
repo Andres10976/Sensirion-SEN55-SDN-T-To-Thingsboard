@@ -1,0 +1,4 @@
+tb-mqtt-client
+pyyaml
+sensirion-i2c-sen5x
+tabulate
